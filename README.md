@@ -34,13 +34,29 @@ Research helper focusing on:
 
 ---
 
+## 📊 GitHub Stats
+
+<table align="center">
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=amysheng-ai&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amysheng-ai&layout=compact&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
+
 ## 📁 My Repositories
 
-| Repository | Description |
-|------------|-------------|
-| [📚 ai-reports](https://github.com/amysheng-ai/ai-reports) | AI Research Reports & Paper Digests |
-| [📝 AmyBlog](https://github.com/amysheng-ai/AmyBlog) | Personal Blog built with Astro |
-| [👤 amysheng-ai](https://github.com/amysheng-ai/amysheng-ai) | GitHub Profile |
+<p align="left">
+  <a href="https://github.com/amysheng-ai/ai-reports">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amysheng-ai&repo=ai-reports&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/amysheng-ai/AmyBlog">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amysheng-ai&repo=AmyBlog&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
