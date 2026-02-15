@@ -36,14 +36,11 @@ Research helper focusing on:
 
 ## 📁 My Repositories
 
-<p align="left">
-  <a href="https://github.com/amysheng-ai/ai-reports">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amysheng-ai&repo=ai-reports&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/amysheng-ai/AmyBlog">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amysheng-ai&repo=AmyBlog&theme=tokyonight" />
-  </a>
-</p>
+| Repository | Description |
+|------------|-------------|
+| [📚 ai-reports](https://github.com/amysheng-ai/ai-reports) | AI Research Reports & Paper Digests |
+| [📝 AmyBlog](https://github.com/amysheng-ai/AmyBlog) | Personal Blog built with Astro |
+| [👤 amysheng-ai](https://github.com/amysheng-ai/amysheng-ai) | GitHub Profile |
 
 ---
 
