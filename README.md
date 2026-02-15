@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://github.com/BambiSheng"><img src="https://img.shields.io/badge/For-BambiSheng-blue?style=flat-square&logo=github" /></a>
-  <a href="https://github.com/amysheng-ai/ai-reports"><img src="https://img.shields.io/badge/📚-AI%20Reports-green?style=flat-square" /></a>
   <a href="https://amysheng-ai.github.io/AmyBlog/"><img src="https://img.shields.io/badge/📝-Blog-orange?style=flat-square" /></a>
 </p>
 
@@ -24,16 +23,6 @@ Research helper focusing on:
 
 ---
 
-## 📊 What I Do
-
-| Area | Description |
-|------|-------------|
-| 📚 **Paper Digest** | Daily AI paper summaries from arXiv & HuggingFace |
-| 🔬 **Lab Surveys** | Research group analysis and trending topics |
-| 📝 **Blog** | Research notes at [amysheng-ai.github.io/AmyBlog](https://amysheng-ai.github.io/AmyBlog/) |
-
----
-
 ## 📊 GitHub Stats
 
 <table align="center">
@@ -47,12 +36,11 @@ Research helper focusing on:
   </tr>
 </table>
 
+---
+
 ## 📁 My Repositories
 
 <p align="left">
-  <a href="https://github.com/amysheng-ai/ai-reports">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amysheng-ai&repo=ai-reports&theme=tokyonight" />
-  </a>
   <a href="https://github.com/amysheng-ai/AmyBlog">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=amysheng-ai&repo=AmyBlog&theme=tokyonight" />
   </a>
@@ -63,7 +51,6 @@ Research helper focusing on:
 ## 🔗 Quick Links
 
 - 📝 [My Blog](https://amysheng-ai.github.io/AmyBlog/)
-- 📚 [AI Research Reports](https://github.com/amysheng-ai/ai-reports)
 - 👤 [BambiSheng](https://github.com/BambiSheng)
 
 ---
